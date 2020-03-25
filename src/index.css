@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-menu{
+  background-color: aqua;
+  width: 175px;
+  float:left;
+}
+.main-menu a{
+  display: block;
+  color:white;
+  padding:10px 20px;
+}
